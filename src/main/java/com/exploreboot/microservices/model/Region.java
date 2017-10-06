@@ -1,4 +1,4 @@
-package com.example.ec.domain;
+package com.exploreboot.microservices.model;
 
 /**
  * Enumeration of the region of California.

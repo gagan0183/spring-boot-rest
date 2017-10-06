@@ -1,4 +1,4 @@
-package com.example.ec.domain;
+package com.exploreboot.microservices.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
